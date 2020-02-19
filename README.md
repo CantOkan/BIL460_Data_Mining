@@ -32,12 +32,12 @@ Partners:
   
  ## Features Selection and Feature Extraction
 * Feature Selection
- * Filter Methods
-   * Correlation
-   * Information Gain
-   * Relief
-* Wrapper Methods
-   * Sequential Feature Selection
+  * Filter Methods
+    * Correlation
+    * Information Gain
+    * Relief
+ * Wrapper Methods
+    * Sequential Feature Selection
  
  
  * Feature Reduction 
