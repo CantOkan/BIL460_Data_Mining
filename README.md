@@ -38,8 +38,8 @@ Partners:
  
  
  * Feature Reduction 
-  * Principal Component Analysis(PCA)
-  * Linear Discriminant Analysis (LDA)
-  * Latent Semantic Analysis (LSA)
+   * Principal Component Analysis(PCA)
+   * Linear Discriminant Analysis (LDA)
+   * Latent Semantic Analysis (LSA)
 
 [Presentation](https://github.com/CantOkan/BIL460_Data_Mining/blob/master/presentation.pdf)
