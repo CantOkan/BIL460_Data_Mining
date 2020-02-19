@@ -17,6 +17,14 @@ Partners:
   * Transportation sector
   * Utilities sector
 
-•4581 individual html files
+• 4581 individual html files
+
+## Future represantation
+* TF IDF
+* Count Vectorizer + TF IDF
+* N Gram
+  * BiGram
+
+
 
 [Presentation](https://github.com/CantOkan/BIL460_Data_Mining/blob/master/presentation.pdf)
