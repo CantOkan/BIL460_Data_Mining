@@ -36,7 +36,7 @@ Partners:
     * Correlation
     * Information Gain
     * Relief
- * Wrapper Methods
+  * Wrapper Methods
     * Sequential Feature Selection
  
  
