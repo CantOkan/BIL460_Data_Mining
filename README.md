@@ -24,7 +24,22 @@ Partners:
 * Count Vectorizer + TF IDF
 * N Gram
   * BiGram
-
-
+  
+  
+  
+ ## Features Selection and Feature Extraction
+* Feature Selection
+ *Filter Methods
+   * Correlation
+   * Information Gain
+   * Relief
+ *Wrapper Methods
+   * Sequential Feature Selection
+ 
+ 
+ * Feature Reduction 
+  * Principal Component Analysis(PCA)
+  * Linear Discriminant Analysis (LDA)
+  * Latent Semantic Analysis (LSA)
 
 [Presentation](https://github.com/CantOkan/BIL460_Data_Mining/blob/master/presentation.pdf)
