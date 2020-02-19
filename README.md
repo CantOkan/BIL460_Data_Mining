@@ -32,7 +32,7 @@ Partners:
   
  ## Features Selection and Feature Extraction
 * Feature Selection
- *Filter Methods
+ * Filter Methods
    * Correlation
    * Information Gain
    * Relief
