@@ -2,7 +2,7 @@
 ## Web Page Classification
 
 Partners:
-* [Alperen KÖYLÜ]:https://github.com/alperenkoylu
+* [Alperen Köylü](https://github.com/alperenkoylu)
 * Can Okan TAŞKIRAN
 
 
