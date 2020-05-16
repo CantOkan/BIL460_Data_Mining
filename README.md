@@ -56,4 +56,4 @@ Other images from presentaion :
 ![K-MEANS](https://user-images.githubusercontent.com/25572428/74860469-bad5f400-5359-11ea-86fa-d2daca2b3c9f.png)
 
 
-# [Presentation](https://github.com/CantOkan/BIL460_Data_Mining/blob/master/presentation.pdf)
+## [Presentation](https://github.com/CantOkan/BIL460_Data_Mining/blob/master/presentation.pdf)
