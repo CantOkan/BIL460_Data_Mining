@@ -1,7 +1,7 @@
 # BIL460_Data_Mining Projects
 ## Web Page Classification
 
-Team:
+Contributors:
 * [Alperen Köylü](https://github.com/alperenkoylu)
 * [Can Okan Taşkıran](https://github.com/CantOkan)
 
